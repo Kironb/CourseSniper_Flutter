@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
             MaterialPageRoute(builder: (context) => Courses()),
           );
         },
-        tooltip: 'Increment',
+        tooltip: 'Add a Course',
         child: Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
